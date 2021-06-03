@@ -121,4 +121,5 @@ form button {
   -o-border-radius: 50%;
   position: absolute;
   margin-left: -25px;
+  cursor: pointer;
 }
